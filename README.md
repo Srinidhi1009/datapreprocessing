@@ -1,11 +1,8 @@
-# datapreprocessing
+# Datapreprocessing
 Task 1: Data Preprocessing - Clean and normalize dataset using Pandas + Sklearn.
-Got it ✅ You want a **dedicated README just for Task 1 (Data Preprocessing)**.
-Here’s a detailed version you can put in a separate `README.md` for Task 1:
-
----
 
 ## 📖 Overview
+
 Data preprocessing is the first and most important step in any 
 machine learning workflow. It ensures that the dataset is clean, 
 consistent, and properly formatted for modeling.  
