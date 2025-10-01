@@ -71,11 +71,6 @@ python task1_preprocessing.py
 
 MUDUMBA SRINIDHI
 📧 [Srinidhimudumba@gmail.com](mailto:srinidhimudumba@gmail.com)
-🌐 [GitHub Profile](https://github.com/your-username)
+🌐 [GitHub Profile](https://github.com/Srinidhi1009)
 
-```
-
----
-
-👉 Do you want me to now write **separate READMEs for Task 2, Task 3, and Task 4** in the same detailed style, so each task has its own documentation?
 ```
